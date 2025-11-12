@@ -6,3 +6,4 @@ Bu siteyi yaparken yardım aldığım kaynaklar şunlardır;
 2.https://colorhunt.co/
 3.https://gemini.google.com/app?hl=tr
 4.https://www.youtube.com/@myuzugullu
+5.https://www.templatemonster.com/
